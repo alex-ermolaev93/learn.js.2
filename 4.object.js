@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<script>
+
     var user = {};
 
         user.name = 'Sasha';
@@ -10,4 +9,3 @@
     delete user.name;
     console.log( user.name1 + ': ' + user.surname );
 
-</script>

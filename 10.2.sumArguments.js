@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<script>
 function sum() {
     var result = 0;
 
@@ -17,4 +15,3 @@ console.log( sum(1, 2, 3) );
 console.log( sum(1, 2, 3, 4) ); 
 console.log( sum(1, 2, 3, 4, 5 ));
 
-</script>

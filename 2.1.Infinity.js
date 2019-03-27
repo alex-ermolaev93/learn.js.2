@@ -1,6 +1,3 @@
-
-
-
     console.log( 3.14/0 );
 
     console.log( -1/0 );

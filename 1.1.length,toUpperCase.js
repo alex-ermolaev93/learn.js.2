@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<script>
     var str = "hello, Cyber World!";
     console.log( str.length );
 
@@ -10,5 +8,3 @@
 
     var three = "hi";
     console.log( three.toUpperCase() );
-    
-</script>

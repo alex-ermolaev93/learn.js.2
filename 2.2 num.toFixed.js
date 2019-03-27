@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<script>
         console.log( 6.35.toFixed(15) );      
 // в внутреннем двоичном представлении 6.35 безконечная двоичная дроб
         // console.log( 6.35.toFixed(16) );      
- 
-</script>

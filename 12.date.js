@@ -1,7 +1,5 @@
-<!DOCTYPE html>
-<script>
     // var may  = new Date( 2077, 0 , 1 , 0 , 50 );
-    //     console.log( may );
+    // console.log( may );
 
 
 
@@ -12,11 +10,8 @@
         }
 
         var date = new Date( 1995, 0, 3 ); 
-            console.log( getWeekDay( date ) );  
+        console.log( getWeekDay( date ) );  
 
 
         // var date = new Date( 2077, 0, 3 );
         //     console.log( date.toLocaleString( 'en', { weekday: 'short' }) ); 
-
-
-</script>

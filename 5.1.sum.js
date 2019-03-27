@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-    <script>
-       
         var salaries = {
           "Вася": 100,
           "Петя": 300,
@@ -13,4 +10,3 @@
         }
         
         console.log( sum );
-    </script>

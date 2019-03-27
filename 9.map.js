@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<script>
      var arr = ["is","life","in","planet"];
     
      var arrLength = arr.map( function( name ) {
@@ -17,4 +15,3 @@
 // }
 
 // alert( arrLength ); // 4,5,2,5
-</script>

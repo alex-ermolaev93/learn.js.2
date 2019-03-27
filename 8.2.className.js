@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<script>
 function addClass( obj, name ) {
     obj.className = name;
     }
@@ -12,6 +10,3 @@ function addClass( obj, name ) {
     console.log( obj ); 
     addClass( obj, 'me' );
     console.log( obj ); 
-    
-
-</script>   

@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<script>
     var goods = [14,15,16];
     var lastItem  = goods[goods.length -1];
         goods.push('red');
@@ -17,6 +15,5 @@
     // console.log( fruits[1] );
     // console.log( fruits[2] );
     // console.log( fruits.length );
-        
-</script>
+
 

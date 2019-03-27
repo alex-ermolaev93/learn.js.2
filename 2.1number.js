@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<script>
-    
     console.log( 0xFF );
 
 
@@ -16,4 +13,3 @@
     };
 console.log( user );
 
-</script>

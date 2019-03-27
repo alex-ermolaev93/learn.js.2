@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<script>
     var arr =[];
         for (var i = 2; i < 100; i++) {
             arr[i] = true
@@ -27,4 +25,3 @@
         }
     }
     console.log(sum);
-</script>

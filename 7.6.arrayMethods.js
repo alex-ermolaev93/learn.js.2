@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<script>
         function eat(arr){
             arr.pop();
         }
@@ -9,4 +7,3 @@
             eat(arr);
             eat(arr);
             console.log( arr.length );
-</script>
