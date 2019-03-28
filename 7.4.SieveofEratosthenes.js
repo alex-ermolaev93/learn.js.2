@@ -1,6 +1,6 @@
     var arr =[];
         for (var i = 2; i < 100; i++) {
-            arr[i] = true
+            arr[i] = true;
         }
 
     var p = 2;
