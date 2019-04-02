@@ -1,5 +1,6 @@
 var store = {}; // объект для коллекции
 
+
 var items = ["div", "a", "form"];
 
 for (var i = 0; i < items.length; i++) {

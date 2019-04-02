@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<script>
+    
+var str = 'no matter how paradoxical it may sound, this paradox';
+var target = 'parad';
+var pos = 0;
+while ( true ) {
+    var foundPos = str.indexOf( target, pos );
+    if( foundPos == -1 ) break;
+    alert( foundPos );
+    pos = foundPos + 1;
+}
+
+
+</script>
