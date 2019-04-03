@@ -25,7 +25,6 @@ var arr4 = ['i','learning','js'];
 arr4.splice(0,2,'i','you','need');
 console.log(arr4);
 
-//возвращение удаленных элеменитов 
-var arr4 = ['i','learning','js'];
+
 
 
